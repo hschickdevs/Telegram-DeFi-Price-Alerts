@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+requests
+python-dotenv
+ratelimit
+ratelimiter
+sendgrid
+pymongo
+web3>=6.9.0
+pyyaml
